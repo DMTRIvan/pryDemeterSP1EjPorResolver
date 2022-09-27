@@ -1,0 +1,24 @@
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.exe.config
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.frmCarga.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.frmConsultar.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.Properties.Resources.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.exe.config
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\bin\Debug\pryDemeterSP1EjPorResolver.pdb
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.frmCarga.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.frmConsultar.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.Properties.Resources.resources
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.exe
+C:\Users\Gustavo\Documents\4) Analista en sistemas IES\2) Segundo semestre\2.3) Laboratprio de programación 2\Para presentar\pryDemeterSP1EjPorResolver\obj\Debug\pryDemeterSP1EjPorResolver.pdb
